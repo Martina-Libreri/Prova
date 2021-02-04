@@ -1,0 +1,13 @@
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercitazioneClassi\EsercitazioneClassi\bin\Debug\netcoreapp3.1\EsercitazioneClassi.exe
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercitazioneClassi\EsercitazioneClassi\bin\Debug\netcoreapp3.1\EsercitazioneClassi.deps.json
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercitazioneClassi\EsercitazioneClassi\bin\Debug\netcoreapp3.1\EsercitazioneClassi.runtimeconfig.json
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercitazioneClassi\EsercitazioneClassi\bin\Debug\netcoreapp3.1\EsercitazioneClassi.runtimeconfig.dev.json
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercitazioneClassi\EsercitazioneClassi\bin\Debug\netcoreapp3.1\EsercitazioneClassi.dll
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercitazioneClassi\EsercitazioneClassi\bin\Debug\netcoreapp3.1\EsercitazioneClassi.pdb
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercitazioneClassi\EsercitazioneClassi\obj\Debug\netcoreapp3.1\EsercitazioneClassi.csprojAssemblyReference.cache
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercitazioneClassi\EsercitazioneClassi\obj\Debug\netcoreapp3.1\EsercitazioneClassi.AssemblyInfoInputs.cache
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercitazioneClassi\EsercitazioneClassi\obj\Debug\netcoreapp3.1\EsercitazioneClassi.AssemblyInfo.cs
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercitazioneClassi\EsercitazioneClassi\obj\Debug\netcoreapp3.1\EsercitazioneClassi.csproj.CoreCompileInputs.cache
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercitazioneClassi\EsercitazioneClassi\obj\Debug\netcoreapp3.1\EsercitazioneClassi.dll
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercitazioneClassi\EsercitazioneClassi\obj\Debug\netcoreapp3.1\EsercitazioneClassi.pdb
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercitazioneClassi\EsercitazioneClassi\obj\Debug\netcoreapp3.1\EsercitazioneClassi.genruntimeconfig.cache
